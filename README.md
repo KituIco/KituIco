@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 My friends call me Kitu!
+- 🔭 I’m a passionate computer science graduate who thrives on finding elegant and optimal solutions to problems. Whether it’s building websites, developing games, or crafting mobile applications, I’m always up for the challenge.
+- 🎨 Beyond code, I have crafted eye-catching infographics, captivating animations, and other engaging media resources. This gives me the privilege to advocate the value of science and technology to various communities.
+- ⚡ Feel free to check out my website at [kituico.github.io](https://kituico.github.io). It’s a great place to explore my work and interests!
+- 📫 I’m always excited to hear from fellow enthusiasts and collaborators. Reach me out via kvtuico@gmail.com
+
+
 <!--
 **KituIco/KituIco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
